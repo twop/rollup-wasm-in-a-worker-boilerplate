@@ -1,0 +1,5 @@
+node_modules
+/target
+/wasm-pack.log
+/dist
+.DS_Store
